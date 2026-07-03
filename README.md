@@ -8,7 +8,3 @@ Este es un proyecto de videojuego RPG de texto desarrollado de forma modular en 
 * **Control de Flujo Avanzado:** Implementación de menús dinámicos interactivos utilizando estructuras `match-case`.
 * **Generación Aleatoria:** Algoritmos de aleatoriedad para el refresco de objetos disponibles en la tienda según el nivel.
 
-## 🚀 Cómo ejecutarlo
-1. Clona el repositorio.
-2. Asegúrate de tener los archivos `.json` en la ruta correspondiente.
-3. Ejecuta `python main.py` desde tu terminal.
