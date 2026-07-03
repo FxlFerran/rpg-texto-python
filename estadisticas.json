@@ -1,0 +1,23 @@
+{
+    "stats": {
+        "vida": 20,
+        "defensa": 5,
+        "xp": 0,
+        "lvl": 1,
+        "dano": 0
+    },
+    "inventario": {},
+    "equipo": {
+        "arma": {
+            "nombre": "pocion VP debil",
+            "calidad": "comun",
+            "cura": 10,
+            "valor": 20
+        },
+        "cabeza": "None",
+        "brazos": "None",
+        "pecho": "None",
+        "piernas": "None",
+        "artefacto": "None"
+    }
+}
